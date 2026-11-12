@@ -1,0 +1,6 @@
+.theia/
+build/
+*.bin
+*.hex
+*.elf
+*.o
